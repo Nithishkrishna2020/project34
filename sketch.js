@@ -6,7 +6,7 @@ function preload()
 {
   dogImg = loadImage("images/dogImg.png");
   happyDogImg = loadImage("images/dogImg1.png");
-  milkImg = loadImage("images/milk.png");
+  milkImg = loadImage("images/Milk.png");
   
 }
 
